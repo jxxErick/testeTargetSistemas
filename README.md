@@ -1,4 +1,4 @@
-# testeTargetSistemas
+# Teste Target Sistemas
 
 Ao invés de simplesmente responder às perguntas, decidi ir além e desenvolver programas para cada uma delas, criando uma solução mais completa e prática.
 
@@ -15,3 +15,10 @@ Abaixo está uma lista das cinco questões e seus respectivos programas:<br> </b
 3)ex3.java<br> </br>
 4)ex4.java<br> </br>
 5)ex5.java<br> </br>
+
+# Outros projetos
+
+caso queira dar uma olhada em outro projeto meu, usando spring e java
+
+https://github.com/jxxErick/spring-boot-project
+
