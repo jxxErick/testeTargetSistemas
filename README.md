@@ -9,7 +9,7 @@ Espero que você goste dos programas e sinta-se livre para me trazer um feedback
   
 (Lembrando que coloquei também as respostas no programa) 
 
-Abaixo está uma lista das cinco questões e seus respectivos programas:
+Abaixo está uma lista das cinco questões e seus respectivos programas:<br> </br>
 1)ex1.java<br> </br>
 2)ex2.java<br> </br>
 3)ex3.java<br> </br>
